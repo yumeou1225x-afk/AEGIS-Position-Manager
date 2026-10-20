@@ -17,14 +17,11 @@ MetaTrader 4 (MT4) 上で動作するハイブリッド型の自動決済・ポ�
 ## 📸 実運用・稼働イメージ
 
 ### 1. チャート上ダッシュボード ＆ 非同期コントロールUI
-<p align="center">
-  <img src="./assets/aegis_chart_ui.png" alt="AEGIS チャートUI・ダッシュボード画面" width="750">
-</p>
+<img width="1687" height="632" alt="スクリーンショット 2026-10-21 003633" src="https://github.com/user-attachments/assets/4e6cd588-c2ed-4c2d-804f-3ac35d6fd152" />
 
 ### 2. Discordへの決済レポート（バイナリ画像＋損益結果）非同期配信
-<p align="center">
-  <img src="./assets/aegis_discord_notify.png" alt="Discord決済通知プレビュー" width="600">
-</p>
+<img width="1368" height="852" alt="スクリーンショット 2026-10-21 003701" src="https://github.com/user-attachments/assets/ceaf5ba0-d928-4c57-accd-ee30e2c51b04" />
+
 
 ---
 
